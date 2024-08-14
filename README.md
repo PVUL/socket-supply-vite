@@ -16,5 +16,5 @@ bun dev:mac # mac app
 ```
 
 ### Refs
-Inspiration for this approach: [Socket Supply + Vite = ♥️ Gist](https://gist.github.com/mecachisenros/12e3240a5d66cffa54089066f9ffe8ff)
-Example package.json: [minesweeper-vite-react](https://github.com/salvatorelaspata/minesweeper-vite-react/blob/main/package.json)
+- Inspiration for this approach: [Socket Supply + Vite = ♥️ Gist](https://gist.github.com/mecachisenros/12e3240a5d66cffa54089066f9ffe8ff)
+- Example package.json: [minesweeper-vite-react](https://github.com/salvatorelaspata/minesweeper-vite-react/blob/main/package.json)
