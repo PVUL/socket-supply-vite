@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:mac": "ssc build -r --watch",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
@@ -13,8 +14,7 @@
     "build:win": "dir && ssc build",
     "build:mac": "ssc build",
     "build:ios": "ssc build --platform=ios-simulator",
-    "build:android": "ssc build --platform=android-emulator",
-    "dev:mac": "ssc build -r --watch"
+    "build:android": "ssc build --platform=android-emulator"
   },
   "dependencies": {
     "react": "^18.3.1",
